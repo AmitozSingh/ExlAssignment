@@ -1,0 +1,9 @@
+Result 1 Title is I-80 W
+Result 1 Travel Time is 2 hr 58 min
+Result 1 Distance in Miles is 164 miles
+Result 2 Title is CA-99 S and I-80 W
+Result 2 Travel Time is 3 hr 6 min
+Result 2 Distance in Miles is 170 miles
+Result 3 Title is CA-70 S and I-80 W
+Result 3 Travel Time is 3 hr 10 min
+Result 3 Distance in Miles is 173 miles

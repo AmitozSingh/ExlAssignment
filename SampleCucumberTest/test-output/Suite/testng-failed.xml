@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="DrivingDirection(failed)" parallel="none">
+    <classes>
+      <class name="com.testautomation.TestRunner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.testautomation.TestRunner.TestRunner -->
+    </classes>
+  </test> <!-- DrivingDirection(failed) -->
+</suite> <!-- Failed suite [Suite] -->
